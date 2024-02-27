@@ -68,7 +68,7 @@ const Intro = () => {
         animate={{ opacity: 1, y: 0 }}
       >
         <b className="font-bold">Hi, I&apos;m {OWNER_NAME.split(" ")[0]}.</b>{" "}
-        I&apos;m a <b className="font-bold">software developer developer</b> with{" "}
+        I&apos;m a <b className="font-bold">software developer</b> with{" "}
         <b className="font-bold">1+ years</b> of experience. I enjoy building{" "}
         <b className="italic">sites and apps</b>. My focus is{" "}
         <b className="underline">React (Next.js)</b>
